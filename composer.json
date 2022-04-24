@@ -1,0 +1,16 @@
+{
+    "name": "acer/oop-praktikum-7",
+    "description": "praktikum 7 pemograman berbasis web lanjutan",
+    "autoload": {
+        "psr-4": {
+            "Acer\\OopPraktikum7\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "agustinus",
+            "email": "agust1nusstmik@gmail.com"
+        }
+    ],
+    "require": {}
+}
